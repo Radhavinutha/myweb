@@ -2,6 +2,8 @@ Hi Im practicing Devops git tool.
 git
 maven
 jenkins
-
+nexus
 sonarqube
 docker
+kubernetes
+tomcat
