@@ -1,1 +1,5 @@
 Hi im Radha
+Lets try fetch command
+fetch command always followed by merge command
+git fetch origin master
+git merge
